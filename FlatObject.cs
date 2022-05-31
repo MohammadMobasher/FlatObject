@@ -12,24 +12,7 @@ namespace FlatObject
         static FlatObject()
         {
         }
-        public static JToken GetProperty(this JToken token, string name, StringComparison comparer = StringComparison.InvariantCultureIgnoreCase)
-        {
-            if (token == null)
-            {
-                return null;
-            }
-            var obj = token as JObject;
-            JToken match;
-            if (obj.TryGetValue(name, comparer, out match))
-            {
-                return match;
-            }
-            return null;
-        }
-        public static T ToObjectEx<T>(this JObject jo, JsonSerializer serializer)
-        {
-            return (T)ToObjectEx(jo, typeof(T), serializer);
-        }
+        
         public static object ToObjectEx(this JObject jo, Type objType, JsonSerializer serializer)
         {
             var obj = ChoActivator.CreateInstance(objType);
