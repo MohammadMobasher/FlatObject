@@ -1616,7 +1616,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\m.mobasher\\source\\repos\\FlatObject\\FlatObject\\FlatObject.csproj",
-      "projectName": "FlatObject",
+      "projectName": "M.Util.FlatObjec",
       "projectPath": "C:\\Users\\m.mobasher\\source\\repos\\FlatObject\\FlatObject\\FlatObject.csproj",
       "packagesPath": "C:\\Users\\m.mobasher\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\m.mobasher\\source\\repos\\FlatObject\\FlatObject\\obj\\",

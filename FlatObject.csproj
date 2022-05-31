@@ -4,6 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>M.Util.FlatObjec</PackageId>
+    <Authors>mohammad Mobasher</Authors>
+    <Product>M.Util.FlatObjec</Product>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/MohammadMobasher/FlatObject/tree/master</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MohammadMobasher/FlatObject/tree/master</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Flat, Object, Json</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

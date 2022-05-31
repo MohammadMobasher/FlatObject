@@ -1,0 +1,12 @@
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\bin\Debug\net6.0\FlatObject.deps.json
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\bin\Debug\net6.0\FlatObject.dll
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\bin\Debug\net6.0\FlatObject.pdb
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\FlatObject.csproj.AssemblyReference.cache
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\FlatObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\FlatObject.AssemblyInfoInputs.cache
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\FlatObject.AssemblyInfo.cs
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\FlatObject.csproj.CoreCompileInputs.cache
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\FlatObject.dll
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\refint\FlatObject.dll
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\FlatObject.pdb
+C:\Users\m.mobasher\source\repos\FlatObject\FlatObject\obj\Debug\net6.0\ref\FlatObject.dll
