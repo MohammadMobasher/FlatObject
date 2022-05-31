@@ -8,11 +8,12 @@
     <PackageId>M.Util.FlatObjec</PackageId>
     <Authors>mohammad Mobasher</Authors>
     <Product>M.Util.FlatObjec</Product>
-    <Copyright>MIT</Copyright>
+    <Copyright></Copyright>
     <PackageProjectUrl>https://github.com/MohammadMobasher/FlatObject/tree/master</PackageProjectUrl>
     <RepositoryUrl>https://github.com/MohammadMobasher/FlatObject/tree/master</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Flat, Object, Json</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

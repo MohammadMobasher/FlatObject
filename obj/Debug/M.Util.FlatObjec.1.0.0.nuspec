@@ -4,9 +4,10 @@
     <id>M.Util.FlatObjec</id>
     <version>1.0.0</version>
     <authors>mohammad Mobasher</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <projectUrl>https://github.com/MohammadMobasher/FlatObject/tree/master</projectUrl>
     <description>Package Description</description>
-    <copyright>MIT</copyright>
     <tags>Flat, Object, Json</tags>
     <repository type="git" url="https://github.com/MohammadMobasher/FlatObject/tree/master" />
     <dependencies>
